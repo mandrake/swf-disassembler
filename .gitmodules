@@ -1,0 +1,3 @@
+[submodule "scrapohr"]
+	path = scrapohr
+	url = git://github.com/mandrake/binary-scrapohr
